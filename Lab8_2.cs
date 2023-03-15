@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace Lesson_Lab8_1
+namespace Lesson_Lab8_2
 {
     public partial class Form1 : Form
     {
